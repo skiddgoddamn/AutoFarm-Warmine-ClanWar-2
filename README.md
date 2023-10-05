@@ -1,2 +1,12 @@
-# AutoFarm-Warmine-ClanWar-2
-AutoFarm-Warmine-ClanWar-2
+<h1 align="center">10.10.2023 WARMINE | CLANWAR Автоматический фарм мобов
+  
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/6Ws8mf9/2023-08-08-18-30-37.png" alt="2023-08-08-18-30-37" border="0"></a>
+
+- Автоматический лут награды за убиства мобов
+- Фарм критами и с зажатым шифтом
+- Автоматическое прописывание /eat
+- Автоматическая починка вещей.
+- Настройка времени фарма.
+- Обход перезапуска сервера.
+
+  <h1 align="center"> <a href="https://vk.me/skiddofficial/" target="_blank">КУПИТЬ</a>
